@@ -7,4 +7,4 @@ These are, among others, some references that I find helpful to learn data scien
 [4] Provost, F., & Fawcett, T. (2013). *Data science for business: What you need to know about data mining and data-analytic thinking*. Sebastopol, Calif.: O'Reilly. <br/> 
 [5] Pólya, G. (1971). *How to solve it: A new aspect of mathematical method*. Princeton, N.J.: Princeton University Press. <br/>
 [6] Lazzeri, F. (2020) *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
-[7] Gee, S. (2014). *Fraud and Fraud Detection: A Data Analytics Approach*. New Jersey: Wiley. <br/>
+[7] Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
