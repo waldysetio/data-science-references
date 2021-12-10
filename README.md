@@ -8,7 +8,7 @@ https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 https://math.mit.edu/~gs/linearalgebra/
 
 3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). *An introduction to statistical learning*. Springer. <br/>
-https://www.statlearning.com/
+https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf
 
 4. Rajaraman, A., Ullman, J. D. (2014). *Mining of massive datasets*. Cambridge: Cambridge University Press.
 http://infolab.stanford.edu/~ullman/mmds/book0n.pdf
