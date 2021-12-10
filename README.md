@@ -6,9 +6,11 @@ https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 2. Strang, Gilbert. (2016). *Introduction to linear algebra*. MA: Wellesley-Cambridge Press. <br/>
 https://math.mit.edu/~gs/linearalgebra/
 3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An introduction to statistical learning. Springer. <br/>
-https://www.statlearning.com/ | https://hastie.su.domains/ISLR2/ISLRv2_website.pdf
-4. Knaflic, Cole Nussbaumer. (2015). *Storytelling with data: A data visualization guide for business professionals*. New York, NY: John Wiley & Sons. <br/>
-5. Provost, F., & Fawcett, T. (2013). *Data science for business: What you need to know about data mining and data-analytic thinking*. Sebastopol, Calif.: O'Reilly. <br/> 
-6. Pólya, G. (1971). *How to solve it: A new aspect of mathematical method*. Princeton, N.J.: Princeton University Press. <br/>
-7. Lazzeri, F. (2020) *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
-8. Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
+https://www.statlearning.com/
+4. Rajaraman, A., Ullman, J. D. (2014). Mining of massive datasets. Cambridge: Cambridge University Press.
+http://infolab.stanford.edu/~ullman/mmds/book0n.pdf
+5. Knaflic, Cole Nussbaumer. (2015). *Storytelling with data: A data visualization guide for business professionals*. New York, NY: John Wiley & Sons. <br/>
+6. Provost, F., & Fawcett, T. (2013). *Data science for business: What you need to know about data mining and data-analytic thinking*. Sebastopol, Calif.: O'Reilly. <br/> 
+7. Pólya, G. (1971). *How to solve it: A new aspect of mathematical method*. Princeton, N.J.: Princeton University Press. <br/>
+8. Lazzeri, F. (2020) *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
+9. Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
