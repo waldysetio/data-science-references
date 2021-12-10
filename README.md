@@ -1,9 +1,9 @@
 # Data Science References
 These are, among others, some references that I find helpful to learn data science.<br/> 
 ## Books:
-1. Hastie, T., Tibshirani, R., & Friedman, J. H. (2001). *The elements of statistical learning: Data mining, inference, and prediction*. New York: Springer. <br/>
+1. ### Hastie, T., Tibshirani, R., & Friedman, J. H. (2001). *The elements of statistical learning: Data mining, inference, and prediction*. New York: Springer. <br/>
 https://web.stanford.edu/~hastie/Papers/ESLII.pdf
-2. Strang, Gilbert. (2016). *Introduction to linear algebra*. MA: Wellesley-Cambridge Press. <br/>
+2. ### Strang, Gilbert. (2016). *Introduction to linear algebra*. MA: Wellesley-Cambridge Press. <br/>
 https://math.mit.edu/~gs/linearalgebra/
 3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). An introduction to statistical learning. Springer. <br/>
 https://www.statlearning.com/
