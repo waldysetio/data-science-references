@@ -14,10 +14,11 @@ https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf | https://www.statlear
 http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 
 5. Knaflic, Cole Nussbaumer. (2015). *Storytelling with data: A data visualization guide for business professionals*. New York, NY: John Wiley & Sons. <br/>
-6. Provost, F., & Fawcett, T. (2013). *Data science for business: What you need to know about data mining and data-analytic thinking*. Sebastopol, Calif.: O'Reilly. <br/> 
-7. Pólya, G. (1971). *How to solve it: A new aspect of mathematical method*. Princeton, N.J.: Princeton University Press. <br/>
-8. Lazzeri, F. (2020) *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
-9. Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
+6. Provost, F., & Fawcett, T. (2013). *Data science for business: What you need to know about data mining and data-analytic thinking*. Sebastopol: O'Reilly. <br/> 
+7. Pólya, G. (1971). *How to solve it: A new aspect of mathematical method*. Princeton: Princeton University Press. <br/>
+8. Bruce, P., & Bruce, A. (2017). *Practical statistics for data scientists*. Sebastopol: O'Reilly. <br/>
+9. Lazzeri, F. (2020) *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
+10. Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
 
 ## Videos:
 1. Starmer, J. (n.d.). Machine Learning Playlist [StatQuest with Josh Starmer]. YouTube. https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
