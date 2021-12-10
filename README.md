@@ -18,3 +18,7 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf
 7. Pólya, G. (1971). *How to solve it: A new aspect of mathematical method*. Princeton, N.J.: Princeton University Press. <br/>
 8. Lazzeri, F. (2020) *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
 9. Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
+
+## Videos:
+1. Starmer, J. (n.d.). Machine Learning Playlist [StatQuest with Josh Starmer]. YouTube. https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
+2. Starmer, J. (n.d.). Statistics Fundamentals Playlist [StatQuest with Josh Starmer]. YouTube. https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
