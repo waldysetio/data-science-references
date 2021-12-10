@@ -8,10 +8,10 @@ https://web.stanford.edu/~hastie/Papers/ESLII.pdf
 https://math.mit.edu/~gs/linearalgebra/
 
 3. James, G., Witten, D., Hastie, T., & Tibshirani, R. (2021). *An introduction to statistical learning*. Springer. <br/>
-https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf
+https://web.stanford.edu/~hastie/ISLR2/ISLRv2_website.pdf | https://www.statlearning.com/
 
 4. Rajaraman, A., Ullman, J. D. (2014). *Mining of massive datasets*. Cambridge: Cambridge University Press.
-http://infolab.stanford.edu/~ullman/mmds/book0n.pdf
+http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 
 5. Knaflic, Cole Nussbaumer. (2015). *Storytelling with data: A data visualization guide for business professionals*. New York, NY: John Wiley & Sons. <br/>
 6. Provost, F., & Fawcett, T. (2013). *Data science for business: What you need to know about data mining and data-analytic thinking*. Sebastopol, Calif.: O'Reilly. <br/> 
