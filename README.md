@@ -14,11 +14,7 @@ https://www.statlearning.com/
 http://infolab.stanford.edu/~ullman/mmds/book0n.pdf
 
 5. Knaflic, Cole Nussbaumer. (2015). *Storytelling with data: A data visualization guide for business professionals*. New York, NY: John Wiley & Sons. <br/>
-6. 
-7. Provost, F., & Fawcett, T. (2013). *Data science for business: What you need to know about data mining and data-analytic thinking*. Sebastopol, Calif.: O'Reilly. <br/> 
-8. 
-9. Pólya, G. (1971). *How to solve it: A new aspect of mathematical method*. Princeton, N.J.: Princeton University Press. <br/>
-10. 
-11. Lazzeri, F. (2020) *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
-12. 
-13. Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
+6. Provost, F., & Fawcett, T. (2013). *Data science for business: What you need to know about data mining and data-analytic thinking*. Sebastopol, Calif.: O'Reilly. <br/> 
+7. Pólya, G. (1971). *How to solve it: A new aspect of mathematical method*. Princeton, N.J.: Princeton University Press. <br/>
+8. Lazzeri, F. (2020) *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
+9. Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
