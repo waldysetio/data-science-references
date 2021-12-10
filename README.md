@@ -22,3 +22,4 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf
 ## Videos:
 1. Starmer, J. (n.d.). Machine Learning Playlist [StatQuest with Josh Starmer]. YouTube. https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 2. Starmer, J. (n.d.). Statistics Fundamentals Playlist [StatQuest with Josh Starmer]. YouTube. https://www.youtube.com/watch?v=qBigTkBLU6g&list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
+3. Ng, A. (n.d.). Stanford CS229: Machine Learning by Andrew Ng Playlist [stanfordonline]. YouTube. https://www.youtube.com/watch?v=jGwO_UgTS7I&list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
