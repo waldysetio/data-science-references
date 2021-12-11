@@ -27,5 +27,5 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 3. Starmer, J. (n.d.). Statistics Fundamentals Playlist [StatQuest with Josh Starmer]. YouTube. https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
 4. Ng, A. (n.d.). Stanford CS229: Machine Learning by Andrew Ng Playlist [stanfordonline]. YouTube. https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
 5. Sanderson, G. (n.d.). Essence of linear algebra Playlist [3Blue1Brown]. YouTube. https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
-6. Python Programming Tutorials (Computer Science) Playlist [Socratica].(n.d.). YouTube. https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
+6. Python Programming Tutorials (Computer Science) Playlist [Socratica]. (n.d.). YouTube. https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
 7. Strang, G. (n.d.). MIT 18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning Playlist [MIT OpenCourseWare]. Youtube. https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
