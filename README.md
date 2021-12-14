@@ -29,3 +29,8 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 5. Sanderson, G. (n.d.). Essence of linear algebra Playlist [3Blue1Brown]. YouTube. https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab
 6. Python Programming Tutorials (Computer Science) Playlist [Socratica]. (n.d.). YouTube. https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-
 7. Strang, G. (n.d.). MIT 18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning Playlist [MIT OpenCourseWare]. Youtube. https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
+
+## Others:
+1. https://web.stanford.edu/class/cs124/lec/collaborativefiltering21.pdf
+2. http://snap.stanford.edu/class/cs246-2015/slides/07-recsys1.pdf
+3. http://snap.stanford.edu/class/cs246-2015/slides/08-recsys2.pdf
