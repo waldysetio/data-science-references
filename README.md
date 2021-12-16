@@ -20,7 +20,7 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 9. Lazzeri, F. (2020). *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
 10. Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
 11. Baning, R. (2018). *Hands-on recommendation systems with python*. Birmingham: Packt. <br/>
-12. Boyd, S., Vandenberghe, L. (2018). *Introduction to applied linear algebra: Vectors, matrices, and least squares*. Cambridge: Cambridge University Press.
+12. Boyd, S., Vandenberghe, L. (2018). *Introduction to applied linear algebra: Vectors, matrices, and least squares*. Cambridge: Cambridge University Press.<br/>
 https://web.stanford.edu/~boyd/vmls/vmls.pdf
 
 
