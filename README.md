@@ -31,6 +31,6 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 7. Strang, G. (n.d.). MIT 18.065: Matrix Methods in Data Analysis, Signal Processing, and Machine Learning Playlist [MIT OpenCourseWare]. Youtube. https://www.youtube.com/playlist?list=PLUl4u3cNGP63oMNUHXqIUcrkS2PivhN3k
 
 ## Others:
-1. https://web.stanford.edu/class/cs124/lec/collaborativefiltering21.pdf
-2. http://snap.stanford.edu/class/cs246-2015/slides/07-recsys1.pdf
-3. http://snap.stanford.edu/class/cs246-2015/slides/08-recsys2.pdf
+1. http://vision.stanford.edu/teaching/cs131_fall1415/schedule.html
+2. http://web.stanford.edu/class/cs124/
+3. http://web.stanford.edu/class/cs246/
