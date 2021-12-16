@@ -34,3 +34,5 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 1. http://vision.stanford.edu/teaching/cs131_fall1415/schedule.html
 2. http://web.stanford.edu/class/cs124/
 3. http://web.stanford.edu/class/cs246/
+4. https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm
+5. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm
