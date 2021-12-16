@@ -20,6 +20,9 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 9. Lazzeri, F. (2020). *Machine learning for time time series forcasting with python*. Indianapolis: John Wiley & Sons. <br/>
 10. Gee, S. (2014). *Fraud and fraud detection: A data analytics approach*. New Jersey: John Wiley & Sons. <br/>
 11. Baning, R. (2018). *Hands-on recommendation systems with python*. Birmingham: Packt. <br/>
+12. Boyd, S., Vandenberghe, L. (2018). *Introduction to applied linear algebra: Vectors, matrices, and least squares*. Cambridge: Cambridge University Press.
+https://web.stanford.edu/~boyd/vmls/vmls.pdf
+
 
 ## Videos:
 1. Starmer, J. (n.d.). Machine Learning Playlist [StatQuest with Josh Starmer]. YouTube. https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
@@ -36,3 +39,4 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 3. http://web.stanford.edu/class/cs246/
 4. https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/index.htm
 5. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/index.htm
+6. https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/
