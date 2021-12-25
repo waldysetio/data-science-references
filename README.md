@@ -24,7 +24,7 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 https://web.stanford.edu/~boyd/vmls/vmls.pdf
 
 
-## Videos:
+## Video Playlists:
 1. Starmer, J. (n.d.). Machine Learning Playlist [StatQuest with Josh Starmer]. YouTube. https://www.youtube.com/playlist?list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF
 2. Guttag, J., et al. (n.d.). MIT 6.0002: Introduction to Computational Thinking and Data Science Playlist [MIT OpenCourseWare]. YouTube. https://www.youtube.com/playlist?list=PLUl4u3cNGP619EG1wp0kT-7rDE_Az5TNd
 3. Starmer, J. (n.d.). Statistics Fundamentals Playlist [StatQuest with Josh Starmer]. YouTube. https://www.youtube.com/playlist?list=PLblh5JKOoLUK0FLuzwntyYI10UQFUhsY9
