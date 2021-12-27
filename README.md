@@ -22,7 +22,7 @@ http://infolab.stanford.edu/~ullman/mmds/book0n.pdf | http://www.mmds.org/
 11. Baning, R. (2018). *Hands-on recommendation systems with python*. Birmingham: Packt. <br/>
 12. Boyd, S., & Vandenberghe, L. (2018). *Introduction to applied linear algebra: Vectors, matrices, and least squares*. Cambridge: Cambridge University Press.<br/>
 https://web.stanford.edu/~boyd/vmls/vmls.pdf
-13. Shalev-Shwartz, S., Ben-David, S. (2014). *Understanding machine learning: from theory to algorithms*. New York: Cambridge University Press. <br/>
+13. Shalev-Shwartz, S., Ben-David, S. (2014). *Understanding machine learning: From theory to algorithms*. New York: Cambridge University Press. <br/>
 https://www.cs.huji.ac.il/w~shais/UnderstandingMachineLearning/understanding-machine-learning-theory-algorithms.pdf
 
 
